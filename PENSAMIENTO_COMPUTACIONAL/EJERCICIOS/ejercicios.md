@@ -37,7 +37,7 @@ hacer un algoritmo que te pida adivinar el numero
 * 15 Escribir "Solo te quedan" , i , "oportunidad"
 * 16 Fin Si
 * 17 Fin Mientras
-* 18 Fin 
+* 18 Fin.
 ![image](https://user-images.githubusercontent.com/103463256/165825965-c28698b3-759e-487d-8fc1-7cac6d9419d9.png)
 
 
